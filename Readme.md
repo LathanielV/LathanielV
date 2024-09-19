@@ -6,15 +6,8 @@
 ### Current Address: Muzon CSJDM
 ### Email address: lath4niel@gmail.com
 
-## Educational Background:
-### • STI CSJDM 
-### • Christian Ecclesiastical School
-### • Muzon Harmony Hills High School
-## Character Reference 
-| Name | Occupation | Number |
-|----------|----------|----------|
-| Ryan Ansit   | IT Head   | 09664561321   |
-| Joy Lili   | Secretary    | 09636325891   |
+
+
 ## Skills
 ### • Communication
 ### • Computer Hardware
