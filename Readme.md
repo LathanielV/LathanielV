@@ -4,7 +4,6 @@
 ## Contact Information
 ### Full Name: Lathaniel Vicente Pamisa
 ### Current Address: Muzon CSJDM
-### Email address: lath4niel@gmail.com
 
 
 
